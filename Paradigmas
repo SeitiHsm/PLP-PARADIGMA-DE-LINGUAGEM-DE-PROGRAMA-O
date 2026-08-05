@@ -1,0 +1,17 @@
+Aula 1 e 2:
+console.log("Hello, World!");
+console.log("=======================");
+
+let idade: idade = 25;
+console.log(idade);
+console.log("=======================");
+
+
+let num: num = 2;
+for(let i = 0; i <= 10; i++){
+    console.log(num * i);
+}
+console.log("=======================");
+
+console.log("TypeScript Sênior na Sylision oferece faixa salarial de R$ 12.000 a R$ 22.000/mês");
+console.log("TypeScript suporta os paradigmas orientado a objetos, funcional e imperativo/estruturado");
